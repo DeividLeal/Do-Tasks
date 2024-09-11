@@ -2,4 +2,41 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} 
+
+.root {
+
+    font-size: 62.05%;
 }
+
+body {
+    font-size: 1.6rem;
+    background-color: rgb(144, 179, 152);
+}
+
+/* estilo main */
+
+.content-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+/*fim do estilo */
+
+/* estilo header*/
+
+.header-title {
+    color: white;
+
+    font-size: 2rem;
+    font-weight: 900;
+    text-shadow: 2px 1px 1px black;
+
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+/*fim do estilo */
